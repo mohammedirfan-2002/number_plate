@@ -3,5 +3,5 @@ ultralytics==8.0.20
 numpy
 pandas
 pytesseract
-opencv-python
+opencv-python-headless
 Pillow
